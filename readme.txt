@@ -12,4 +12,4 @@ Required Packages:
 - scikit-learn
 
 Method to run:
-Open the `.ipynb` file in Jupyter notebook or Jupyter Lab and execute it from the beginning in order to get the prediction result. Part of the time-consuming parameter tuning code has been commented out, but all explained with detailed descriptions.
+Open the `.ipynb` file in Jupyter notebook or Jupyter Lab and execute it from the beginning in order to get the prediction result. Part of the time-consuming parameter tuning code has been commented out.
